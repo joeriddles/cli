@@ -1,4 +1,4 @@
-module github.com/joeriddles/urfave-cli
+module github.com/joeriddles/cli
 
 go 1.18
 
