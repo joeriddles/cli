@@ -1,4 +1,4 @@
-module github.com/joeriddles/cli
+module github.com/joeriddles/cli/v3
 
 go 1.18
 
